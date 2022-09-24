@@ -1,0 +1,23 @@
+status: 301
+content-type: application/binary
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+cache-control: private, max-age=7776000
+pragma: no-cache
+expires: Fri, 23 Sep 2022 13:09:12 GMT
+date: Fri, 23 Sep 2022 13:09:12 GMT
+location: https://calendar.google.com/calendar/u/3/r?cid=bWFyaXVzLmFybGF1c2thczAxQGdtYWlsLmNvbQ
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+cross-origin-opener-policy-report-only: same-origin-allow-popups; report-to="calendar_coop_coep"
+report-to: {"group":"calendar_coop_coep","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/calendar"}]}
+cross-origin-embedder-policy-report-only: require-corp; report-to="calendar_coop_coep"
+server: ESF
+content-length: 0
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=511=rLD_S-F0fdxs4yrP9_bB1m-fZaV_NeRZ-Drq8Nv7ifA-pkPft4GYM4l-_PbYlWVQRoGRgZD8kXMED-eyPOG9bLec5_n8Y6Qpx4dtSwAQsKO6XsP2PWeQ1RKb0KAkBcgj5QGZKA9foB531sTsPfsP1949_OboKWQBkTpT-WudpUY; expires=Sat, 25-Mar-2023 13:09:12 GMT; path=/; domain=.google.com; HttpOnly
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+-x-permanent-redirect-url: https://calendar.google.com/calendar/u/3/r?cid=bWFyaXVzLmFybGF1c2thczAxQGdtYWlsLmNvbQ
+content-location: https://calendar.google.com/calendar/u/3?cid=bWFyaXVzLmFybGF1c2thczAxQGdtYWlsLmNvbQ
+
